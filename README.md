@@ -44,7 +44,7 @@ for(int i=0, int j=0;i<playerList.length-1 && j<playerCount-1;i++,j++){
 				}
 			}
 		}
-//Print the 11 Player List
+//Print the RCB's 11 Player List
 System.out.println(Arrays.toString(playerList ));
 
 	}    
